@@ -5,4 +5,8 @@ The two moons may make it interesting.
 
 Need to do more research about the polar ice caps.
 
+<<<<<<< HEAD
 red moon
+=======
+Thoughts on thawing the ice?
+>>>>>>> master
